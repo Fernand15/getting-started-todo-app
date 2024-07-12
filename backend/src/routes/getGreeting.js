@@ -1,7 +1,7 @@
 const GREETING = [
     "Bienvenue !",
     "Bonjour !",
-    "Voyons ce que vous avez à faire aujourd'hui",
+    "Voyons ce que vous avez à faire aujourd'hui...",
 
 ];
 
