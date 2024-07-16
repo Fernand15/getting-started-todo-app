@@ -2,7 +2,7 @@ const GREETINGS = [
     "Bienvenue !",
     "Bonjour !",
     "Voyons ce que vous avez à faire aujourd'hui...",
-
+    
 ];
 
 module.exports = async (req, res) => {
